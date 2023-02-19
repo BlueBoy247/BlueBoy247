@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to devolop plugins
 - 🌐 I'm trying to build my own website
 - ✨ Nice to meet you! Have a great day!
-- 📧 send an e-amil to me: [click here](mailto:uudenden.fly+ongithub@gmail.com)
+- 📧 E-mail:uudenden.fly+ongithub@gmail.com
 
 <!---
 shuba247/shuba247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
