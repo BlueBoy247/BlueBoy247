@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @shuba247 from Taiwan
 - 👀 I’m interested in coding in Python and C++
 - 🌱 I’m currently learning to devolop plugins
+- 🌐 I'm trying to build my own website
 - ✨ Nice to meet you! Have a great day!
 - 📧 send an e-amil to me: [click here](mailto:uudenden.fly+ongithub@gmail.com)
 
