@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shuba247 from Taiwan
+- 👋 Hi, I’m @BlueBoy247 from Taiwan
 - 👀 I’m interested in coding in Python and C++
 - 🌱 I’m currently learning to devolop plugins
 - 🌐 I'm trying to build my own website
