@@ -14,8 +14,8 @@
     
 </div>
 
-高中時投入競技程式，目前正在學習全端開發、外掛程式與手機應用開發、物聯網、機器學習及資安技術。<br>
-I participated in competitive programming contests in high school, and I'm currently learning **full-stack devolopment**, **plugins and mobile applications devolopment**, **IoT**, **machine learning** and **cybersecurity**.
+目前正在學習全端開發、外掛程式與手機應用開發、物聯網、機器學習及資安技術。<br>
+I'm currently learning **full-stack devolopment**, **plugins and mobile applications devolopment**, **IoT**, **machine learning** and **cybersecurity**.
 
 ## 🎓學歷 Education
 * 就讀於[臺北市立建國高級中學](https://www.ck.tp.edu.tw/)（2021/09~2024/06）<br>
@@ -25,7 +25,7 @@ Study in Taipei Municipal ChienKuo High School
 * [建國中學資訊社INFOR 35th](https://www.instagram.com/infor.35th/) 內務（2023/02~2023/07）<br>
 ChienKuo High School Information Club 35th: Officer of Intra-Association Affair Department
 
-## ⚙️技能 Tech Stack
+## ⚙️Tech Stack
 ### 語言 Language
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=python&color=3776AB&logo=python&logoColor=FFFFFF&label=)
 ![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=A8B9CC&logo=C&logoColor=FFFFFF&label=)
