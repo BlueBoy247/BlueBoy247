@@ -45,6 +45,9 @@ ChienKuo High School Information Club 35th: Officer of Intra-Association Affair 
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BlueBoy247&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueBoy247&layout=compact&langs_count=7&theme=dracula">
 </div>
+<div align="center">
+    <a href="https://gitroll.io/profile/uC0VuSxBplmRPBkxXoFcO7zl1rL43" target="_blank"><img height="300em" src="https://gitroll.io/api/badges/profiles/v1/uC0VuSxBplmRPBkxXoFcO7zl1rL43" alt="GitRoll Profile Badge"/></a>
+</div>
 
 <!---
 shuba247/shuba247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
