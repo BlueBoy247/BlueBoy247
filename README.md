@@ -13,8 +13,6 @@
     
 </div>
 
----
-
 高中時投入競技程式，目前正在學習全端開發、外掛程式與手機應用開發、物聯網、機器學習及資安技術。<br>
 I participated in competitive programming contests in high school, and I'm currently learning **full-stack devolopment**, **plugins and mobile applications devolopment**, **IoT**, **machine learning** and **cybersecurity**.
 
