@@ -1,16 +1,21 @@
 <h1 align="center">Allen Chang (BlueBoy247)</h1>
 
 <div align="center">
-    
+
+**-個人連結 Social Link-**<br>
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=gmail&color=FF0000&logo=gmail&logoColor=FFFFFF&label=)](mailto:uudenden.fly+ongithub@gmail.com)
 [![X(Twitter)](https://img.shields.io/static/v1?style=for-the-badge&message=X&color=000000&logo=X&logoColor=FFFFFF&label=)](https://twitter.com/summit_AMT)
-[![My Blog](https://img.shields.io/static/v1?style=for-the-badge&message=My%20Blog&color=777777&logo=data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAEGUlEQVRYha2XXUybVRjHf+/bD0opUGRDWDZlzGR+xUyDi2Y1uxgfhuA0UZPBlpgt6GKyi7luEm80EuMkE7LEmwVwicl03OxCgqgri2HppoLbmiUa3CbDQfgea2uhox/v60VpC93blzPK/6rPOc95/v++53nOeQ5kgEMnPfKhkx45kxiSqGOV021VVGqBauAFoAywLU4HgCHgKvCzLNN9/kvH/JoIqHS6i1SVRqAByBPU6wc6JIlmV4tjalUCDjRf4c5ksAE4AdgFiVPhBY6tt5s7zn68XVxAldNtUVTagX2rJE7FGeDd3lbH/RUFVDrdFlXlHFCzRuRx9ABvpopYlsF1Tf2osX++1uQsxvy6rql/2aBxqTHtDTWg8dllCfbXPE6RPeuBqKGIwj1/iFtjcwwMegkuRPVE1M94Q31AW3wgsQVVTneRovI3GglXWmyl/djzeoEBCAQjtHcP0/PbpJ6bV4KtrtZYdSS2QImVmma2G2Sx48KWbeTwW1vYuW2dnptdhca4IQFUHXVbFYVx0tT5lg05nHJuS9jnLo7xw+UJkKAwz8wbr5Sw49nCxPzQ2BwHWzx6IvxASW+rY14GUBRq05FrwRcIMzIdZGQqiOeWj6ZvBhm/m0zu0mIrRoPuV8sDdkNyC6pFybWgKHBnUujkXYrqpQLKMxFgkKG0JCdh3xgNEImqKy0rh2QZlj4MYZZJJtcaW/pIrom9lZt4tCBWotGoyumef0XClAFI+z4bME7MLoT1PFOTMB1m/wvxxbc3uHbTJyKA/BxTtizwqYRRYDPxwdtP8NLTBUL+4aiiyJ2fbI8QKwth3B6fo88zQ59nht//mmXGtwCAJEmUFFr4dP9TvPjkihfofNfnL4fiOTAMPCcq4JdrM5y9MJqwZQnqKzbxzquPxWxZoqG2lIFB3bNgCJJVcFWUXAuKCmdcI8vOgs3FVvJtJr1lfyQFqPyYiYA4pr0Lid+SJJFt1m0XXUkBEt08ZB6kwpZtoGxD8iwIRxTu+kPp3P1Gg9SVENDb6pgHOkTJrFkGCnJNFOSaWJdvpnyrnePvPYMtO3m7//rnLOFI2go7/dOJHQFY3g80AwcQ6P/27NrInl0b0857A2HauofTTfuB43EjsUm9sfu5UWuFooqdFaqqcv0fH4e/us7k7EI6t8ZFLiClI7KY5bb7IWUnUL90fGQqyIUr06y3mzXF+QIRbo/P0T94j5ujc3oaOy1m+dTSgQfuzIojbgvwPVClF2kV6AVe021KARYdXge+W0PyTi1yTQFxEXk5xr3AQTIrTz/wvsUs12mRg8DTrOKIuwj4iFiFiHZNAaBDgmZXq2NCz1H4cVp99JItqqi7Wf44tS5OzxO7T/oBlyzRdb7FERCNvWrUfHjJUtN42ZJJjP8Bl5xcuISEYzEAAAAASUVORK5CYII=&logoColor=FFFFFF&label=)](https://blueboy247.github.io/)
-[![PayPal](https://img.shields.io/static/v1?style=for-the-badge&message=sponsor%20me&color=0079C1&logo=PayPal&logoColor=FFFFFF&label=)](https://www.paypal.com/paypalme/blueboy2472779)
-[![Buy Me A Coffee](https://img.shields.io/static/v1?style=for-the-badge&message=sponsor%20me&color=FFDD00&logo=Buy%20Me%20A%20Coffee&logoColor=000000&label=)](https://buymeacoffee.com/blueboy247)
+[![My Blog](https://img.shields.io/static/v1?style=for-the-badge&message=My%20Blog&color=222222&logo=Github&logoColor=FFFFFF&label=)](https://blueboy247.github.io/)
 <br>
 [![CodeForces](https://img.shields.io/static/v1?style=for-the-badge&message=codeforces&color=1F8ACB&logo=codeforces&logoColor=FFFFFF&label=)](https://codeforces.com/profile/shuba247)
 [![Atcoder](https://img.shields.io/static/v1?style=for-the-badge&message=Atcoder&color=AAAAAA&logo=&logoColor=&label=)](https://atcoder.jp/users/Shuba247)
 [![Tasker](https://img.shields.io/static/v1?style=for-the-badge&message=Tasker出任務&color=E3284B&logo=&logoColor=FFFFFF&label=)](https://www.tasker.com.tw/workroom/nJjPr6)
+<br>
+**-贊助我 Sponsor Me-**<br>
+[![PayPal](https://img.shields.io/static/v1?style=for-the-badge&message=PayPal&color=0079C1&logo=PayPal&logoColor=FFFFFF&label=)](https://www.paypal.com/paypalme/blueboy2472779)
+[![Patreon](https://img.shields.io/static/v1?style=for-the-badge&message=Patreon&color=000000&logo=Patreon&logoColor=FFFFFF&label=)](https://www.patreon.com/BlueBoy247)
+[![Buy Me A Coffee](https://img.shields.io/static/v1?style=for-the-badge&message=Buy%20Me%20A%20Coffee&color=FFDD00&logo=Buy%20Me%20A%20Coffee&logoColor=000000&label=)](https://buymeacoffee.com/blueboy247)
+
     
 </div>
 
