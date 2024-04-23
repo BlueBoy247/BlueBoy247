@@ -6,9 +6,6 @@
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=gmail&color=FF0000&logo=gmail&logoColor=FFFFFF&label=)](mailto:uudenden.fly+ongithub@gmail.com)
 [![X(Twitter)](https://img.shields.io/static/v1?style=for-the-badge&message=X&color=000000&logo=X&logoColor=FFFFFF&label=)](https://twitter.com/summit_AMT)
 [![My Blog](https://img.shields.io/static/v1?style=for-the-badge&message=My%20Blog&color=222222&logo=Github&logoColor=FFFFFF&label=)](https://blueboy247.github.io/)
-<br>
-[![CodeForces](https://img.shields.io/static/v1?style=for-the-badge&message=codeforces&color=1F8ACB&logo=codeforces&logoColor=FFFFFF&label=)](https://codeforces.com/profile/shuba247)
-[![Atcoder](https://img.shields.io/static/v1?style=for-the-badge&message=Atcoder&color=AAAAAA&logo=&logoColor=&label=)](https://atcoder.jp/users/Shuba247)
 [![Tasker](https://img.shields.io/static/v1?style=for-the-badge&message=Tasker出任務&color=E3284B&logo=&logoColor=FFFFFF&label=)](https://www.tasker.com.tw/workroom/nJjPr6)
 <br>
 **-贊助我 Sponsor Me-**<br>
@@ -31,7 +28,7 @@ Study in Taipei Municipal ChienKuo High School
 ChienKuo High School Information Club 35th: Officer of Intra-Association Affair Department
 
 ## ⚙️Tech Stack
-### 語言 Language
+### Language
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=python&color=3776AB&logo=python&logoColor=FFFFFF&label=)
 ![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=A8B9CC&logo=C&logoColor=FFFFFF&label=)
 ![Arduino](https://img.shields.io/static/v1?style=for-the-badge&message=Arduino&color=00878F&logo=Arduino&logoColor=FFFFFF&label=)
@@ -40,20 +37,35 @@ ChienKuo High School Information Club 35th: Officer of Intra-Association Affair 
 ![Javascript](https://img.shields.io/static/v1?style=for-the-badge&message=javascript&color=F7DF1E&logo=javascript&logoColor=000000&label=)
 ![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=000000&logo=Markdown&logoColor=FFFFFF&label=)
 
-### 其它 Other
+### DevOps
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=git&color=F05032&logo=git&logoColor=FFFFFF&label=)
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=github&color=181717&logo=github&logoColor=FFFFFF&label=)
+
+### Other
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=bootstrap&color=7952B3&logo=bootstrap&logoColor=FFFFFF&label=#)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=FCC624&logo=Linux&logoColor=000000&label=#)
+![Cloudflare](https://img.shields.io/static/v1?style=for-the-badge&message=Cloudflare&color=F38020&logo=cloudflare&logoColor=FFFFFF&label=)
+![Cloudflare Pages](https://img.shields.io/static/v1?style=for-the-badge&message=Cloudflare%20Pages&color=F38020&logo=cloudflare%20pages&logoColor=FFFFFF&label=)
+![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=vercel&logoColor=FFFFFF&label=)
 
-## 📊GitHub Stats
-<div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BlueBoy247&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueBoy247&layout=compact&langs_count=7&theme=dracula">
-</div>
-<div align="center">
-    <a href="https://gitroll.io/profile/uC0VuSxBplmRPBkxXoFcO7zl1rL43" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uC0VuSxBplmRPBkxXoFcO7zl1rL43" alt="GitRoll Profile Badge"/></a>
-</div>
+## 📊Stats
+<details>
+    <summary>GitHub</summary>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BlueBoy247&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueBoy247&layout=compact&langs_count=7&theme=dracula" alt="Most Used Languages">
+</details>
+<details>
+    <summary>GitRoll</summary>
+    <a href="https://gitroll.io/profile/uC0VuSxBplmRPBkxXoFcO7zl1rL43"><img src="https://gitroll.io/api/badges/profiles/v1/uC0VuSxBplmRPBkxXoFcO7zl1rL43" alt="GitRoll Profile Badge"/></a>
+</details>
+<details>
+    <summary>Codeforces</summary>
+    <a href="https://codeforces.com/profile/shuba247"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=shuba247&theme=github_dark&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats"></a>
+</details>
+<details>
+    <summary>AtCoder</summary>
+    <a href="https://atcoder.jp/users/Shuba247"><img src="https://atcoder.junah.dev/v2/generate_badge?name=shuba247" alt="AtCoder Stats"></a>
+</details>
 
 <!---
 shuba247/shuba247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
