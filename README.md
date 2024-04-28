@@ -7,7 +7,7 @@
 [![X(Twitter)](https://img.shields.io/static/v1?style=for-the-badge&message=X&color=000000&logo=X&logoColor=FFFFFF&label=)](https://twitter.com/summit_AMT)
 [![My Blog](https://img.shields.io/static/v1?style=for-the-badge&message=My%20Blog&color=222222&logo=Github&logoColor=FFFFFF&label=)](https://blueboy247.github.io/)
 <br>
-**-接案平台-**<br>
+**-接案平台 Piecework Platform-**<br>
 [![Tasker出任務](https://img.shields.io/static/v1?style=for-the-badge&message=Tasker出任務&color=E3284B&logo=&logoColor=FFFFFF&label=)](https://www.tasker.com.tw/workroom/nJjPr6)
 [![Pro360](https://img.shields.io/static/v1?style=for-the-badge&message=Pro360&color=76B82A&logo=&logoColor=FFFFFF&label=)](https://www.pro360.com.tw/service/466549)
 [![Case+](https://img.shields.io/static/v1?style=for-the-badge&message=Case%2B&color=6271C2&logo=&logoColor=FFFFFF&label=)](https://case.1111.com.tw/FindTalent/TalentInfo?Id=4202404280008)
