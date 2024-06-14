@@ -24,8 +24,8 @@
 I'm currently learning **full-stack devolopment**, **plugins and mobile applications devolopment**, **IoT**, **machine learning** and **cybersecurity**.
 
 ## 🎓學歷 Education
-* 就讀於[臺北市立建國高級中學](https://www.ck.tp.edu.tw/)（2021/09~2024/06）<br>
-Study in Taipei Municipal ChienKuo High School
+* [臺北市立建國高級中學](https://www.ck.tp.edu.tw/)（2021/09~2024/06）<br>
+Taipei Municipal ChienKuo High School
 
 ## 📃經歷 Experience
 * [建國中學資訊社INFOR 35th](https://www.instagram.com/infor.35th/) 內務（2023/02~2023/07）<br>
