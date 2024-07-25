@@ -7,6 +7,7 @@
 [![X(Twitter)](https://img.shields.io/static/v1?style=for-the-badge&message=X&color=000000&logo=X&logoColor=FFFFFF&label=)](https://twitter.com/summit_AMT)
 [![My Blog](https://img.shields.io/static/v1?style=for-the-badge&message=My%20Blog&color=222222&logo=Github&logoColor=FFFFFF&label=)](https://blueboy247.github.io/)
 <br>
+<!--
 **-接案平台 Piecework Platform-**<br>
 [![Tasker出任務](https://img.shields.io/static/v1?style=for-the-badge&message=Tasker出任務&color=E3284B&logo=&logoColor=FFFFFF&label=)](https://www.tasker.com.tw/workroom/nJjPr6)
 [![Pro360](https://img.shields.io/static/v1?style=for-the-badge&message=Pro360&color=76B82A&logo=&logoColor=FFFFFF&label=)](https://www.pro360.com.tw/service/466549)
@@ -16,7 +17,7 @@
 [![PayPal](https://img.shields.io/static/v1?style=for-the-badge&message=PayPal&color=0079C1&logo=PayPal&logoColor=FFFFFF&label=)](https://www.paypal.com/paypalme/blueboy2472779)
 [![Patreon](https://img.shields.io/static/v1?style=for-the-badge&message=Patreon&color=000000&logo=Patreon&logoColor=FFFFFF&label=)](https://www.patreon.com/BlueBoy247)
 [![Buy Me A Coffee](https://img.shields.io/static/v1?style=for-the-badge&message=Buy%20Me%20A%20Coffee&color=FFDD00&logo=Buy%20Me%20A%20Coffee&logoColor=000000&label=)](https://buymeacoffee.com/blueboy247)
-
+-->
     
 </div>
 
@@ -47,10 +48,12 @@ ChienKuo High School Information Club 35th: Officer of Intra-Association Affair 
 
 ### Other
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=bootstrap&color=7952B3&logo=bootstrap&logoColor=FFFFFF&label=#)
+<!--
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=FCC624&logo=Linux&logoColor=000000&label=#)
 ![Cloudflare](https://img.shields.io/static/v1?style=for-the-badge&message=Cloudflare&color=F38020&logo=cloudflare&logoColor=FFFFFF&label=)
 ![Cloudflare Pages](https://img.shields.io/static/v1?style=for-the-badge&message=Cloudflare%20Pages&color=F38020&logo=cloudflare%20pages&logoColor=FFFFFF&label=)
 ![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=vercel&logoColor=FFFFFF&label=)
+-->
 
 ## 📊Stats
 <details>
