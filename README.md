@@ -21,16 +21,24 @@
     
 </div>
 
-目前正在學習全端開發、外掛程式與手機應用開發、物聯網、機器學習及資安技術。<br>
-I'm currently learning **full-stack devolopment**, **plugins and mobile applications devolopment**, **IoT**, **machine learning** and **cybersecurity**.
+我是北市大資科的學生！目前正在學習全端開發、外掛程式與手機應用開發、物聯網、機器學習及資安技術。<br>
+A college student living in the Republic of China, the country that is also known as Taiwan, and currently studying Computer Science at the University of Taipei. I'm now focusing on **full-stack devolopment**, **plugin and mobile application development**, **IoT**, **machine learning**, and **cybersecurity**.
 
 ## 🎓學歷 Education
-* [臺北市立建國高級中學](https://www.ck.tp.edu.tw/)（2021/09~2024/06）<br>
-Taipei Municipal ChienKuo High School
+* **臺北市立建國高級中學** ***Taipei Municipal ChienKuo High School***<br>
+2021/09~2024/06<br>
+Website: [https://www.ck.tp.edu.tw/](https://www.ck.tp.edu.tw/)
+* **臺北市立大學** ***University of Taipei***<br>
+    * 資訊科學系 *Department of Computer Science*<br>
+      2024/09~now<br>
+      Website: [https://cs.utaipei.edu.tw/](https://cs.utaipei.edu.tw/)
+      
 
 ## 📃經歷 Experience
-* [建國中學資訊社INFOR 35th](https://www.instagram.com/infor.35th/) 內務（2023/02~2023/07）<br>
-ChienKuo High School Information Club 35th: Officer of Intra-Association Affair Department
+* **建國中學資訊社INFOR 35th** ***ChienKuo High School Information Club 35th***
+    * 內務 *Officer of Intra-Association Affair Department*<br>
+    2023/02~2023/07<br>
+    Website: [https://35.infor.org/](https://35.infor.org/)
 
 ## ⚙️Tech Stack
 ### Language
