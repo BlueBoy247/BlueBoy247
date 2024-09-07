@@ -26,19 +26,20 @@ A college student living in the Republic of China, the country that is also know
 
 ## 🎓學歷 Education
 * **臺北市立建國高級中學** ***Taipei Municipal ChienKuo High School***<br>
-2021/09~2024/06<br>
-Website: [https://www.ck.tp.edu.tw/](https://www.ck.tp.edu.tw/)
+  普通科 *General Subjects Program*<br>
+  2021/09~2024/06<br>
+  Website: [https://www.ck.tp.edu.tw/](https://www.ck.tp.edu.tw/)
 * **臺北市立大學** ***University of Taipei***<br>
-    * 資訊科學系 *Department of Computer Science*<br>
-      2024/09~now<br>
-      Website: [https://cs.utaipei.edu.tw/](https://cs.utaipei.edu.tw/)
+  資訊科學系 *Bachelor's program in Computer Science*<br>
+  2024/09~now<br>
+  Website: [https://cs.utaipei.edu.tw/](https://cs.utaipei.edu.tw/)
       
 
 ## 📃經歷 Experience
-* **建國中學資訊社INFOR 35th** ***ChienKuo High School Information Club 35th***
-    * 內務 *Officer of Intra-Association Affair Department*<br>
-    2023/02~2023/07<br>
-    Website: [https://35.infor.org/](https://35.infor.org/)
+* **建國中學資訊社INFOR 35th** ***ChienKuo High School Information Club 35th***<br>
+  內務 *Officer of Intra-Association Affair Department*<br>
+  2023/02~2023/07<br>
+  Website: [https://35.infor.org/](https://35.infor.org/)
 
 ## ⚙️Tech Stack
 ### Language
