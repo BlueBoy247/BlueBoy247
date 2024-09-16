@@ -7,6 +7,8 @@
 [![X(Twitter)](https://img.shields.io/static/v1?style=for-the-badge&message=X&color=000000&logo=X&logoColor=FFFFFF&label=)](https://twitter.com/summit_AMT)
 [![My Blog](https://img.shields.io/static/v1?style=for-the-badge&message=My%20Blog&color=222222&logo=Github&logoColor=FFFFFF&label=)](https://blueboy247.github.io/)
 <br>
+[![HackerRank](https://img.shields.io/static/v1?style=for-the-badge&message=HackerRank&color=121418&logo=HackerRank&logoColor=00EA64&label=)](https://www.hackerrank.com/profile/Shuba247)
+[![LeetCode](https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=FFA116&logo=LeetCode&logoColor=FFFFFF&label=)](https://leetcode.com/u/Shuba247/)
 <!--
 **-接案平台 Piecework Platform-**<br>
 [![Tasker出任務](https://img.shields.io/static/v1?style=for-the-badge&message=Tasker出任務&color=E3284B&logo=&logoColor=FFFFFF&label=)](https://www.tasker.com.tw/workroom/nJjPr6)
@@ -27,18 +29,18 @@ A college student living in the Republic of China, the country that is also know
 ## 🎓學歷 Education
 * **臺北市立建國高級中學** ***Taipei Municipal ChienKuo High School***<br>
   普通科 *General Subjects Program*<br>
-  2021/09~2024/06<br>
+  *Sep 2021 - Jun 2024*<br>
   Website: [https://www.ck.tp.edu.tw/](https://www.ck.tp.edu.tw/)
 * **臺北市立大學** ***University of Taipei***<br>
-  資訊科學系 *Bachelor's program in Computer Science*<br>
-  2024/09~now<br>
+  資訊科學系 *Computer Science, BS*<br>
+  *Sep 2024 - Present*<br>
   Website: [https://cs.utaipei.edu.tw/](https://cs.utaipei.edu.tw/)
       
 
 ## 📃經歷 Experience
 * **建國中學資訊社INFOR 35th** ***ChienKuo High School Information Club 35th***<br>
   內務 *Officer of Intra-Association Affair Department*<br>
-  2023/02~2023/07<br>
+  *Feb 2023 - Jul 2023*<br>
   Website: [https://35.infor.org/](https://35.infor.org/)
 
 ## ⚙️Tech Stack
