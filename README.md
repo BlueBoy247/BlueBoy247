@@ -39,7 +39,7 @@ A college student living in the Republic of China, the country that is also know
 
 ## 📃經歷 Experience
 * **建國中學資訊社INFOR 35th** ***ChienKuo High School Information Club 35th***<br>
-  內務 *Officer of Intra-Association Affair Department*<br>
+  內務 *Internal Affairs Officer*<br>
   *Feb 2023 - Jul 2023*<br>
   Website: [https://35.infor.org/](https://35.infor.org/)
 
