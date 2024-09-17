@@ -1,28 +1,5 @@
 <h1 align="center">Allen Chang (BlueBoy247)</h1>
 
-<div align="center">
-
-**-個人連結 Social Link-**<br>
-[![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=gmail&color=FF0000&logo=gmail&logoColor=FFFFFF&label=)](mailto:uudenden.fly+ongithub@gmail.com)
-[![X(Twitter)](https://img.shields.io/static/v1?style=for-the-badge&message=X&color=000000&logo=X&logoColor=FFFFFF&label=)](https://twitter.com/summit_AMT)
-[![My Blog](https://img.shields.io/static/v1?style=for-the-badge&message=My%20Blog&color=222222&logo=Github&logoColor=FFFFFF&label=)](https://blueboy247.github.io/)
-<br>
-[![HackerRank](https://img.shields.io/static/v1?style=for-the-badge&message=HackerRank&color=121418&logo=HackerRank&logoColor=00EA64&label=)](https://www.hackerrank.com/profile/Shuba247)
-[![LeetCode](https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=FFA116&logo=LeetCode&logoColor=FFFFFF&label=)](https://leetcode.com/u/Shuba247/)
-<!--
-**-接案平台 Piecework Platform-**<br>
-[![Tasker出任務](https://img.shields.io/static/v1?style=for-the-badge&message=Tasker出任務&color=E3284B&logo=&logoColor=FFFFFF&label=)](https://www.tasker.com.tw/workroom/nJjPr6)
-[![Pro360](https://img.shields.io/static/v1?style=for-the-badge&message=Pro360&color=76B82A&logo=&logoColor=FFFFFF&label=)](https://www.pro360.com.tw/service/466549)
-[![Case+](https://img.shields.io/static/v1?style=for-the-badge&message=Case%2B&color=6271C2&logo=&logoColor=FFFFFF&label=)](https://case.1111.com.tw/FindTalent/TalentInfo?Id=4202404280008)
-<br>
-**-贊助我 Sponsor Me-**<br>
-[![PayPal](https://img.shields.io/static/v1?style=for-the-badge&message=PayPal&color=0079C1&logo=PayPal&logoColor=FFFFFF&label=)](https://www.paypal.com/paypalme/blueboy2472779)
-[![Patreon](https://img.shields.io/static/v1?style=for-the-badge&message=Patreon&color=000000&logo=Patreon&logoColor=FFFFFF&label=)](https://www.patreon.com/BlueBoy247)
-[![Buy Me A Coffee](https://img.shields.io/static/v1?style=for-the-badge&message=Buy%20Me%20A%20Coffee&color=FFDD00&logo=Buy%20Me%20A%20Coffee&logoColor=000000&label=)](https://buymeacoffee.com/blueboy247)
--->
-    
-</div>
-
 我是北市大資科的學生！目前正在學習全端開發、外掛程式與手機應用開發、物聯網、機器學習及資安技術。<br>
 A college student living in the Republic of China, the country that is also known as Taiwan, and currently studying Computer Science at the University of Taipei. I'm now focusing on **full-stack devolopment**, **plugin and mobile application development**, **IoT**, **machine learning**, and **cybersecurity**.
 
@@ -85,6 +62,25 @@ A college student living in the Republic of China, the country that is also know
     <a href="https://atcoder.jp/users/Shuba247"><img src="https://atcoder.junah.dev/v2/generate_badge?name=shuba247" alt="AtCoder Stats"></a>
 </details>
 
+## 🔗連結 Links
+### 個人連結 Social Link
+[![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=gmail&color=FF0000&logo=gmail&logoColor=FFFFFF&label=)](mailto:uudenden.fly+ongithub@gmail.com)
+[![X(Twitter)](https://img.shields.io/static/v1?style=for-the-badge&message=X&color=000000&logo=X&logoColor=FFFFFF&label=)](https://twitter.com/summit_AMT)
+[![My Blog](https://img.shields.io/static/v1?style=for-the-badge&message=My%20Blog&color=222222&logo=Github&logoColor=FFFFFF&label=)](https://blueboy247.github.io/)
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/allenchang247)
+[![HackerRank](https://img.shields.io/static/v1?style=for-the-badge&message=HackerRank&color=121418&logo=HackerRank&logoColor=00EA64&label=)](https://www.hackerrank.com/profile/Shuba247)
+[![LeetCode](https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=FFA116&logo=LeetCode&logoColor=FFFFFF&label=)](https://leetcode.com/u/Shuba247/)
+<!--
+### 接案平台 Piecework Platform
+[![Tasker出任務](https://img.shields.io/static/v1?style=for-the-badge&message=Tasker出任務&color=E3284B&logo=&logoColor=FFFFFF&label=)](https://www.tasker.com.tw/workroom/nJjPr6)
+[![Pro360](https://img.shields.io/static/v1?style=for-the-badge&message=Pro360&color=76B82A&logo=&logoColor=FFFFFF&label=)](https://www.pro360.com.tw/service/466549)
+[![Case+](https://img.shields.io/static/v1?style=for-the-badge&message=Case%2B&color=6271C2&logo=&logoColor=FFFFFF&label=)](https://case.1111.com.tw/FindTalent/TalentInfo?Id=4202404280008)
+
+### 贊助我 Sponsor Me
+[![PayPal](https://img.shields.io/static/v1?style=for-the-badge&message=PayPal&color=0079C1&logo=PayPal&logoColor=FFFFFF&label=)](https://www.paypal.com/paypalme/blueboy2472779)
+[![Patreon](https://img.shields.io/static/v1?style=for-the-badge&message=Patreon&color=000000&logo=Patreon&logoColor=FFFFFF&label=)](https://www.patreon.com/BlueBoy247)
+[![Buy Me A Coffee](https://img.shields.io/static/v1?style=for-the-badge&message=Buy%20Me%20A%20Coffee&color=FFDD00&logo=Buy%20Me%20A%20Coffee&logoColor=000000&label=)](https://buymeacoffee.com/blueboy247)
+-->
 <!---
 shuba247/shuba247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
