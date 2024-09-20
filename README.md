@@ -21,27 +21,40 @@ A college student living in the Republic of China, the country that is also know
   Website: [https://35.infor.org/](https://35.infor.org/)
 
 ## ⚙️Tech Stack
-### Language
+### Languages
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=python&color=3776AB&logo=python&logoColor=FFFFFF&label=)
-![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=A8B9CC&logo=C&logoColor=FFFFFF&label=)
-![Arduino](https://img.shields.io/static/v1?style=for-the-badge&message=Arduino&color=00878F&logo=Arduino&logoColor=FFFFFF&label=)
 ![HTML](https://img.shields.io/static/v1?style=for-the-badge&message=html5&color=E34F26&logo=html5&logoColor=FFFFFF&label=)
 ![CSS](https://img.shields.io/static/v1?style=for-the-badge&message=css3&color=1572B6&logo=css3&logoColor=FFFFFF&label=)
 ![Javascript](https://img.shields.io/static/v1?style=for-the-badge&message=javascript&color=F7DF1E&logo=javascript&logoColor=000000&label=)
+![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=A8B9CC&logo=C&logoColor=FFFFFF&label=)
+![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=f58219&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIGZpbGw9IiNGRkZGRkYiIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDI0IDI0IiByb2xlPSJpbWciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkphdmEgaWNvbjwvdGl0bGU+PHBhdGggZD0iTTguODUxIDE4LjU2cy0uOTE3LjUzNC42NTMuNzE0YzEuOTAyLjIxOCAyLjg3NC4xODcgNC45NjktLjIxMSAwIDAgLjU1Mi4zNDYgMS4zMjEuNjQ2LTQuNjk5IDIuMDEzLTEwLjYzMy0uMTE4LTYuOTQzLTEuMTQ5TTguMjc2IDE1LjkzM3MtMS4wMjguNzYxLjU0Mi45MjRjMi4wMzIuMjA5IDMuNjM2LjIyNyA2LjQxMy0uMzA4IDAgMCAuMzg0LjM4OS45ODcuNjAyLTUuNjc5IDEuNjYxLTEyLjAwNy4xMy03Ljk0Mi0xLjIxOE0xMy4xMTYgMTEuNDc1YzEuMTU4IDEuMzMzLS4zMDQgMi41MzMtLjMwNCAyLjUzM3MyLjkzOS0xLjUxOCAxLjU4OS0zLjQxOGMtMS4yNjEtMS43NzItMi4yMjgtMi42NTIgMy4wMDctNS42ODggMC0uMDAxLTguMjE2IDIuMDUxLTQuMjkyIDYuNTczTTE5LjMzIDIwLjUwNHMuNjc5LjU1OS0uNzQ3Ljk5MWMtMi43MTIuODIyLTExLjI4OCAxLjA2OS0xMy42NjkuMDMzLS44NTYtLjM3My43NS0uODkgMS4yNTQtLjk5OC41MjctLjExNC44MjgtLjA5My44MjgtLjA5My0uOTUzLS42NzEtNi4xNTYgMS4zMTctMi42NDMgMS44ODcgOS41OCAxLjU1MyAxNy40NjItLjcgMTQuOTc3LTEuODJNOS4yOTIgMTMuMjFzLTQuMzYyIDEuMDM2LTEuNTQ0IDEuNDEyYzEuMTg5LjE1OSAzLjU2MS4xMjMgNS43Ny0uMDYyIDEuODA2LS4xNTIgMy42MTgtLjQ3NyAzLjYxOC0uNDc3cy0uNjM3LjI3Mi0xLjA5OC41ODdjLTQuNDI5IDEuMTY1LTEyLjk4Ni42MjMtMTAuNTIyLS41NjggMi4wODItMS4wMDYgMy43NzYtLjg5MiAzLjc3Ni0uODkyTTE3LjExNiAxNy41ODRjNC41MDMtMi4zNCAyLjQyMS00LjU4OS45NjgtNC4yODUtLjM1NS4wNzQtLjUxNS4xMzgtLjUxNS4xMzhzLjEzMi0uMjA3LjM4NS0uMjk3YzIuODc1LTEuMDExIDUuMDg2IDIuOTgxLS45MjggNC41NjIgMC0uMDAxLjA3LS4wNjIuMDktLjExOE0xNC40MDEgMHMyLjQ5NCAyLjQ5NC0yLjM2NSA2LjMzYy0zLjg5NiAzLjA3Ny0uODg4IDQuODMyLS4wMDEgNi44MzYtMi4yNzQtMi4wNTMtMy45NDMtMy44NTgtMi44MjQtNS41MzkgMS42NDQtMi40NjkgNi4xOTctMy42NjUgNS4xOS03LjYyN005LjczNCAyMy45MjRjNC4zMjIuMjc3IDEwLjk1OS0uMTUzIDExLjExNi0yLjE5OCAwIDAtLjMwMi43NzUtMy41NzIgMS4zOTEtMy42ODguNjk0LTguMjM5LjYxMy0xMC45MzcuMTY4IDAtLjAwMS41NTMuNDU3IDMuMzkzLjYzOSIvPjwvc3ZnPg==&logoColor=FFFFFF&label=)
+![Arduino](https://img.shields.io/static/v1?style=for-the-badge&message=Arduino&color=00878F&logo=Arduino&logoColor=FFFFFF&label=)
 ![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=000000&logo=Markdown&logoColor=FFFFFF&label=)
+
+<!--
+### Frontend
+
+### Backend
+![Flask](https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label=)
+
+### Database
+![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
+-->
 
 ### DevOps
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=git&color=F05032&logo=git&logoColor=FFFFFF&label=)
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=github&color=181717&logo=github&logoColor=FFFFFF&label=)
-
-### Other
-![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=bootstrap&color=7952B3&logo=bootstrap&logoColor=FFFFFF&label=#)
 <!--
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=FCC624&logo=Linux&logoColor=000000&label=#)
-![Cloudflare](https://img.shields.io/static/v1?style=for-the-badge&message=Cloudflare&color=F38020&logo=cloudflare&logoColor=FFFFFF&label=)
-![Cloudflare Pages](https://img.shields.io/static/v1?style=for-the-badge&message=Cloudflare%20Pages&color=F38020&logo=cloudflare%20pages&logoColor=FFFFFF&label=)
-![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=vercel&logoColor=FFFFFF&label=)
 -->
+
+### Cloud
+![Cloudflare](https://img.shields.io/static/v1?style=for-the-badge&message=Cloudflare&color=F38020&logo=cloudflare&logoColor=FFFFFF&label=)
+![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=vercel&logoColor=FFFFFF&label=)
+
+### Tools
+![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=bootstrap&color=7952B3&logo=bootstrap&logoColor=FFFFFF&label=#)
+![jQuery](https://img.shields.io/static/v1?style=for-the-badge&message=jquery&color=0769AD&logo=jquery&logoColor=FFFFFF&label=#)
 
 ## 📊Stats
 <details>
