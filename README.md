@@ -59,6 +59,8 @@ A college student living in the Republic of China, the country that is also know
 ## 📊Stats
 <details>
     <summary>GitHub</summary>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=BlueBoy247&theme=dracula&currStreakLabel=EB5454&currStreakNum=FFFFFF&fire=EB5454" alt="GitHub Streak" />
+    <br>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BlueBoy247&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueBoy247&layout=compact&langs_count=7&theme=dracula" alt="Most Used Languages">
 </details>
