@@ -5,20 +5,9 @@ A college student living in the Republic of China, the country that is also know
 
 ## 🎓學歷 Education
 * **臺北市立建國高級中學** ***Taipei Municipal ChienKuo High School***<br>
-  普通科 *General Subjects Program*<br>
-  *Sep 2021 - Jun 2024*<br>
-  Website: [https://www.ck.tp.edu.tw/](https://www.ck.tp.edu.tw/)
+  普通科 *General Subjects Program* ( Sep 2021 - Jun 2024 )<br>
 * **臺北市立大學** ***University of Taipei***<br>
-  資訊科學系 *Computer Science, BS*<br>
-  *Sep 2024 - Present*<br>
-  Website: [https://cs.utaipei.edu.tw/](https://cs.utaipei.edu.tw/)
-      
-
-## 📃經歷 Experience
-* **建國中學資訊社INFOR 35th** ***ChienKuo High School Information Club 35th***<br>
-  內務 *Internal Affairs Officer*<br>
-  *Feb 2023 - Jul 2023*<br>
-  Website: [https://35.infor.org/](https://35.infor.org/)
+  資訊科學系 *Computer Science, BS* ( Sep 2024 - Present )<br>
 
 ## ⚙️Tech Stack
 ### Languages
@@ -81,8 +70,9 @@ A college student living in the Republic of China, the country that is also know
 ### 社群平台 Social Platforms
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=gmail&color=FF0000&logo=gmail&logoColor=FFFFFF&label=)](mailto:uudenden.fly+ongithub@gmail.com)
 [![X(Twitter)](https://img.shields.io/static/v1?style=for-the-badge&message=X&color=000000&logo=X&logoColor=FFFFFF&label=)](https://twitter.com/summit_AMT)
+[![My Profile](https://img.shields.io/static/v1?style=for-the-badge&message=My%20Profile&color=EEEEEE&logo=Github&logoColor=222222&label=)](https://blueboy247.github.io/blog)
+[![My Blog](https://img.shields.io/static/v1?style=for-the-badge&message=My%20Blog&color=222222&logo=Github&logoColor=FFFFFF&label=)](https://blueboy247.github.io/blog)
 [![Bluesky](https://img.shields.io/static/v1?style=for-the-badge&message=bluesky&color=0285FF&logo=bluesky&logoColor=FFFFFF&label=)](https://bsky.app/profile/blueboy247.bsky.social)
-[![My Blog](https://img.shields.io/static/v1?style=for-the-badge&message=My%20Blog&color=222222&logo=Github&logoColor=FFFFFF&label=)](https://blueboy247.github.io/)
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/allenchang247)
 
 ### 解題平台 Programming Platforms
