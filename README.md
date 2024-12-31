@@ -1,7 +1,7 @@
 <h1 align="center">Allen Chang (BlueBoy247)</h1>
 
 我是北市大資科的學生！目前正在朝全端開發努力，此外也對應用程式開發、物聯網、機器學習及資安技術等領域有興趣。<br>
-A college student living in the Republic of China, the country that is also known as Taiwan, and currently studying Computer Science at the University of Taipei. I am currently striving to excel in **full-stack development**. Additionally, I have a keen interest in **application development**, **IoT**, **machine learning**, and **cybersecurity technologies**.
+A college student living in the Republic of China, the country that is also known as Taiwan, and currently studying Computer Science at the University of Taipei. I'm now striving to excel in **full-stack development**. Additionally, I have a keen interest in **APP development**, **IoT**, **machine learning**, and **cybersecurity technologies**.
 
 ## 🎓學歷 Education
 * **臺北市立建國高級中學** ***Taipei Municipal ChienKuo High School***<br>
