@@ -1,0 +1,14 @@
+name: camo purge
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  camo_purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: action-camo-purge
+        uses: kevincobain2000/action-camo-purge@v1
