@@ -67,7 +67,7 @@ A college student living in the Republic of China, the country that is also know
 ## 🔗連結 Links
 ### 社群平台 Social Platforms
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=gmail&color=FF0000&logo=gmail&logoColor=FFFFFF&label=)](mailto:uudenden.fly+ongithub@gmail.com)
-[![My Profile](https://img.shields.io/static/v1?style=for-the-badge&message=My%20Profile&color=222222&logo=Github&logoColor=FFFFFF&label=)](https://blueboy247.github.io/blog)
+[![My Profile](https://img.shields.io/static/v1?style=for-the-badge&message=My%20Profile&color=222222&logo=Github&logoColor=FFFFFF&label=)](https://blueboy247.github.io)
 [![My Blog](https://img.shields.io/static/v1?style=for-the-badge&message=My%20Blog&color=EEEEEE&logo=Github&logoColor=222222&label=)](https://blueboy247.github.io/blog)
 [![X(Twitter)](https://img.shields.io/static/v1?style=for-the-badge&message=X(Twitter)&color=000000&logo=X&logoColor=FFFFFF&label=)](https://twitter.com/summit_AMT)
 [![Bluesky](https://img.shields.io/static/v1?style=for-the-badge&message=bluesky&color=0285FF&logo=bluesky&logoColor=FFFFFF&label=)](https://bsky.app/profile/blueboy247.bsky.social)
