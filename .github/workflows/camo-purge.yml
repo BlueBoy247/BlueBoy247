@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  camo_purge:
+  camo-purge:
     runs-on: ubuntu-latest
     steps:
       - name: action-camo-purge
